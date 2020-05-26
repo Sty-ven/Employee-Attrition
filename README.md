@@ -1,46 +1,33 @@
-# Employee-Attrition
-Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists.
+# PROJECT 1: Predicting Employee Attriton
+The project is to help a company which is trying to control attrition. The data used for this project is obtained from the https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset. Following attributes are available for every employee.
 
-Education
-1 'Below College'
-2 'College'
-3 'Bachelor'
-4 'Master'
-5 'Doctor'
+*Education
+*EnvironmentSatisfaction
+*JobInvolvement
+*JobSatisfaction
+*PerformanceRating
+*RelationshipSatisfaction
+*WorkLifeBalance
 
-EnvironmentSatisfaction
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
+Therefore I am going to answer the following questions:
+1. What is the effect of Income on attrition?
+2. Which set of people are most likey to quit their job?
+3. What is the impact of Age on Employee Attrition?
 
-JobInvolvement
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
+Requirements
+The project should run with libraries included in the Anaconda distribution. Following main libraries have been used:
 
-JobSatisfaction
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
+Python 3.8.2
+numpy 1.13.3
+pandas 0.25.3
+seaborn 0.10.0
+matplotlib 0.8.4
 
-PerformanceRating
-1 'Low'
-2 'Good'
-3 'Excellent'
-4 'Outstanding'
+Files in the Repository
+Employee Attrition.ipynb: Jupyter notebook containing the analysis of the project
+WA_Fn-UseC_-HR-Employee-Attrition.csv: Dataset used in the project
 
-RelationshipSatisfaction
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
-
-WorkLifeBalance
-1 'Bad'
-2 'Good'
-3 'Better'
-4 'Best'
-
+Acknowledgements:
+The data for the project is available on Kaggle and was prepared by pavansubhash.
+ 
+Thanks to Udacity for a great project.
