@@ -24,8 +24,8 @@ The project should run with libraries included in the Anaconda distribution. Fol
 5. matplotlib 0.8.4
 
 Files in the Repository
-Employee Attrition.ipynb: Jupyter notebook containing the analysis of the project
-WA_Fn-UseC_-HR-Employee-Attrition.csv: Dataset used in the project
+1. Employee Attrition.ipynb: Jupyter notebook containing the analysis of the project
+2. WA_Fn-UseC_-HR-Employee-Attrition.csv: Dataset used in the project
 
 Acknowledgements:
 The data for the project is available on Kaggle and was prepared by pavansubhash.
