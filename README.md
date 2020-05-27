@@ -1,5 +1,5 @@
 # PROJECT 1: Predicting Employee Attriton
-The project is to help a company which is trying to control attrition. The data used for this project is obtained from the https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset. Following attributes are available for every employee.
+The project is to help a company which is trying to control attrition. The data used for this project is obtained from the [Kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset). Following attributes are available for every employee.
 
 1. Education
 2. EnvironmentSatisfaction
