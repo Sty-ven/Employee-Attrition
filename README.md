@@ -14,7 +14,7 @@ Therefore I am going to answer the following questions:
 2. Which set of people are most likey to quit their job?
 3. What is the impact of Age on Employee Attrition?
 
-Requirements
+## Requirements
 The project should run with libraries included in the Anaconda distribution. Following main libraries have been used:
 
 1. Python 3.8.2
@@ -23,9 +23,13 @@ The project should run with libraries included in the Anaconda distribution. Fol
 4. seaborn 0.10.0
 5. matplotlib 0.8.4
 
-Files in the Repository
+## Files in the Repository
 1. Employee Attrition.ipynb: Jupyter notebook containing the analysis of the project
 2. WA_Fn-UseC_-HR-Employee-Attrition.csv: Dataset used in the project
+
+## Results
+Please find my summary for a non-technical audience in a blog post [here](https://medium.com/@oriyomistephen/predicting-employee-attrition-102d0482cb82)
+
 
 Acknowledgements:
 The data for the project is available on Kaggle and was prepared by pavansubhash.
