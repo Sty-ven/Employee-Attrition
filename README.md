@@ -31,7 +31,7 @@ The project should run with libraries included in the Anaconda distribution. Fol
 Please find my summary for a non-technical audience in a blog post [here](https://medium.com/@oriyomistephen/predicting-employee-attrition-102d0482cb82)
 
 
-Acknowledgements:
+## Acknowledgements:
 The data for the project is available on Kaggle and was prepared by pavansubhash.
  
 Thanks to Udacity for a great project.
